@@ -1,3 +1,4 @@
 First entry.
 Added a second line.
 And a 3rd line.
+Then a 4th line.
